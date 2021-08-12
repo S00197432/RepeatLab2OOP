@@ -10,6 +10,10 @@ namespace RepeatLab2OOP
     {
         static void Main(string[] args)
         {
+
+
+            List<Book> ReadingList = new List<Book>();
+
         }
     }
 }
